@@ -1,0 +1,10 @@
+.uni{
+  width:600px;
+  padding: 30px;
+  border-radius: 2rem;
+  background-color: rgb(247, 252, 255);
+  img{
+    border-radius: 1rem;
+  }
+  margin: 50px;
+}
