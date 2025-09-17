@@ -9,7 +9,7 @@ function App(){
     <div>
       <EffectComp/>
       
-       {/*<MapComp/>
+      {/*<MapComp/>
        <StateComp/>
      <Card image="https://tse3.mm.bing.net/th/id/OIP.z9svZY8gmVeiNaJsp-4OUgHaFj?pid=Api&P=0&h=220" name="NSBM" para="This is one"/>
       <Card image="https://tse1.mm.bing.net/th/id/OIP.ZM6FgB43hKFBIoQHgzlvAgHaE8?pid=Api&P=0&h=220" name="OUSL" para="This is two"/>
